@@ -1,9 +1,12 @@
 # Efeito Matrix
 
-![efeito-matrix](https://user-images.githubusercontent.com/39635734/82719051-75d59c80-9c7d-11ea-914b-698ab1b4617a.png)
+![efeito matrix](https://user-images.githubusercontent.com/39635734/82733390-d26ea100-9ce9-11ea-8c9e-e66e80e7d83b.gif)
 
 ## O que é?
 O efeito incrível de chuva de letras no estilo Matrix.
+
+## Teste!
+Antes de dá uma olhadinha veja como fica o efeito matrix no [JSFiddle](https://jsfiddle.net/s7p1g6Le/2/)
 
 Aproveite!
 
