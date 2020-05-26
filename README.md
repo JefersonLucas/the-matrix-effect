@@ -51,7 +51,7 @@ Você também pode [baixar](https://github.com/JefersonLucas/efeito-matrix/archi
 
 ## Contribuindo
 
-Leia o [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) para obter detalhes sobre nosso código de conduta e o processo para enviar solicitações pull para nós.
+Leia o [CONTRIBUTING.md](https://github.com/JefersonLucas/efeito-matrix/blob/master/CONTRIBUTING.md) para obter detalhes sobre nosso código de conduta e o processo para enviar solicitações pull para nós.
 
 ## Versionamento
 
