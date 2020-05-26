@@ -11,8 +11,6 @@
 
 ![efeito matrix](https://user-images.githubusercontent.com/39635734/82733390-d26ea100-9ce9-11ea-8c9e-e66e80e7d83b.gif)
 
-O incrível efeito de chuvas de letras no estilo do filme Matrix.
-
 ## Começando
 
 Essas instruções fornecerão uma cópia do projeto em execução na sua máquina local.
@@ -70,7 +68,7 @@ Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.m
 
 * Primeiramente a Deus. 
 * Meus sinceros agradecimentos a todos que visitam o projeto e deixa uma estrela como reconhecimento.
-* A obra prima que foi a triologia Matrix com o fodástico Keanu Reeves.
+* A obra prima que foi a trilogia Matrix com o fodástico Keanu Reeves.
 * Ao [Sylvain Saurel](https://play.google.com/store/apps/details?id=com.ssaurel.matrixeffect), sem a sua enorme ajuda eu não realizaria esse projeto.
 
 ## Siga-me
