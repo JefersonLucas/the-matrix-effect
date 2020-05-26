@@ -6,7 +6,6 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/JefersonLucas/efeito-matrix)
 ![GitHub stars](https://img.shields.io/github/stars/JefersonLucas/efeito-matrix?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/JefersonLucas/efeito-matrix?style=social)
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FJefersonLuckas)
 
 # Efeito Matrix
 
@@ -51,7 +50,7 @@ Você também pode [baixar](https://github.com/JefersonLucas/efeito-matrix/archi
 
 ## Contribuindo
 
-Leia o [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) para obter detalhes sobre nosso código de conduta e o processo para enviar solicitações pull para nós.
+Leia o [CONTRIBUTING.md](https://github.com/JefersonLucas/efeito-matrix/blob/master/CONTRIBUTING.md) para obter detalhes sobre nosso código de conduta e o processo para enviar solicitações pull para nós.
 
 ## Versionamento
 
@@ -72,4 +71,10 @@ Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.m
 * Primeiramente a Deus. 
 * Meus sinceros agradecimentos a todos que visitam o projeto e deixa uma estrela como reconhecimento.
 * A obra prima que foi a triologia Matrix com o fodástico Keanu Reeves.
-* Ao [Sylvain Saurel](https://play.google.com/store/apps/details?id=com.ssaurel.matrixeffect), sem a enorme ajuda dele não realizaria esse projeto.
+* Ao [Sylvain Saurel](https://play.google.com/store/apps/details?id=com.ssaurel.matrixeffect), sem a sua enorme ajuda eu não realizaria esse projeto.
+
+## Siga-me
+
+* Instagram [@jeferson.lucas](https://instagram.com/jeferson.luckas/)
+* Twitter [@JefersonLuckas](https://twitter.com/JefersonLuckas)
+* LinkedIn [Jeferson Lucas](https://www.linkedin.com/in/jeferson-lucas)
