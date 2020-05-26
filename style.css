@@ -1,6 +1,11 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
 canvas {
 	display: flex;
 	margin: 0 auto;
-	width: 1250px;
-	height: 620px;
+ 	width: 100%;
+ 	height: 100vh;
 }
