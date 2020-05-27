@@ -11,6 +11,8 @@
 
 ![efeito matrix](https://user-images.githubusercontent.com/39635734/82733390-d26ea100-9ce9-11ea-8c9e-e66e80e7d83b.gif)
 
+> "Cedo ou tarde, você vai aprender, assim como eu aprendi, que existe uma diferença entre **CONHECER** o caminho e **TRILHAR** o caminho" - Morpheus
+
 ## Começando
 
 Essas instruções fornecerão uma cópia do projeto em execução na sua máquina local.
@@ -26,15 +28,18 @@ Siga passo a passo as seguinte formas de obter o código na sua máquina local.
 
 Inicie o repositorio na sua máquina local utilizando as linhas de comando.
 
-Clonar com SSH
-```
+```Git
+#Clonar com SSH
+
 mkdir efeito-matrix
 cd efeito-matrix
 git init
 git clone git@github.com:JefersonLucas/efeito-matrix.git
 ```
-Clonar com HTTPS 
-```
+
+```Git
+#Clonar com HTTPS 
+
 mkdir efeito-matrix
 cd efeito-matrix
 git init
