@@ -11,24 +11,21 @@
 
 ![efeito matrix](https://user-images.githubusercontent.com/39635734/82733390-d26ea100-9ce9-11ea-8c9e-e66e80e7d83b.gif)
 
-> "Cedo ou tarde, você vai aprender, assim como eu aprendi, que existe uma diferença entre **CONHECER** o caminho e **TRILHAR** o caminho" - Morpheus
+> ### "Cedo ou tarde, você vai aprender, assim como eu aprendi, que existe uma diferença entre CONHECER o caminho e TRILHAR o caminho" 
+>_Morpheus_
 
 ## Começando
 
 Essas instruções fornecerão uma cópia do projeto em execução na sua máquina local.
-
-### Pré-requisitos
-
-Sem pré-requisitos.
 
 ### Instalando
 Siga passo a passo as seguinte formas de obter o código na sua máquina local.
 
 **1. Clonando o repositório**.
 
-Inicie o repositorio na sua máquina local utilizando as linhas de comando.
+Para clonar o esse repositório na sua máquina local, utilize as linhas de comando:
 
-```Git
+```
 #Clonar com SSH
 
 mkdir efeito-matrix
@@ -37,15 +34,14 @@ git init
 git clone git@github.com:JefersonLucas/efeito-matrix.git
 ```
 
-```Git
-#Clonar com HTTPS 
+```
+#Clonar com HTTPS
 
 mkdir efeito-matrix
 cd efeito-matrix
 git init
 git clone https://github.com/JefersonLucas/efeito-matrix.git
 ```
-Agora os arquivos que estão no repositório remoto estão clonados no repositório local.
 
 **2. Baixando o repositório**.
 
@@ -57,13 +53,13 @@ Leia o [CONTRIBUTING.md](https://github.com/JefersonLucas/efeito-matrix/blob/mas
 
 ## Versionamento
 
-Usamos o [SemVer](https://semver.org/lang/pt-BR/) para controle de versão. Para as versões disponíveis, consulte as [tags nesse repositório](https://github.com/JefersonLucas/efeito-matrix/tags). 
+Usamos o [SemVer](https://semver.org/lang/pt-BR/) para controle de versão. Para as versões disponíveis, consulte as [tags nesse repositório](https://github.com/JefersonLucas/efeito-matrix/tags).
 
 ## Autores
 
-* **Jeferson Lucas** - *Trabalho Inicial* - [JefersonLucas](https://github.com/JefersonLucas).
+* [@JefersonLucas](https://github.com/JefersonLucas) - _Trabalho Inicial_.
 
-Veja também a lista de [contribuidores](https://github.com/JefersonLucas/efeito-matrix/contributors) que participaram deste projeto.
+Veja também a lista completa de [contribuidores](https://github.com/JefersonLucas/efeito-matrix/contributors) que participaram deste projeto.
 
 ## Licença
 
@@ -71,10 +67,13 @@ Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.m
 
 ## Agradecimentos
 
-* Primeiramente a Deus. 
-* Meus sinceros agradecimentos a todos que visitam o projeto e deixa uma estrela como reconhecimento.
-* A obra prima que foi a trilogia Matrix com o fodástico Keanu Reeves.
-* Ao [Sylvain Saurel](https://play.google.com/store/apps/details?id=com.ssaurel.matrixeffect), sem a sua enorme ajuda eu não realizaria esse projeto.
+Meus sinceros agradecimentos:
+
+* A Deus.
+* Contribuintes do projeto.
+* Todos que visitam o projeto e deixa uma estrela como reconhecimento.
+* Trilogia _Matrix_ com o fodástico _Keanu Reeves_.
+* Ao _[Sylvain Saurel](https://play.google.com/store/apps/details?id=com.ssaurel.matrixeffect)_, sem o seu trabalho, não me inspiraria a realizaria esse projeto.
 
 ## Siga-me
 

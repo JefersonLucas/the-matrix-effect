@@ -1,8 +1,15 @@
-//  Quando a página for carregada pelo DOM deverá chamar a função carregar
-    document.addEventListener("DOMContentLoaded", carregar);
-//  Função que faz o efeito de chuva de letras
+
+//  Quando a página for carregada 
+//  Chama a função carregar()
+//
+window.onload = function carregar() {
+//  Captura o Canvas
+    var canvas = document.getElementById("canvas");
+//  Passagem do canvas para a função efeitoMatrix()
+    efeitoMatrix(canvas);
+//  Função que efetua o efeito matrix
     function efeitoMatrix(neo) {
-    //	Variáveis globais
+    //	Variáveis
         var tela = window.screen;
         var largura = (neo.width = tela.width);
         var altura = (neo.height = tela.height);
@@ -25,11 +32,7 @@
     //
         });
       }
-    //  Chama a função desenhaMatrix
+    //  A um intervalo de milisegundos a função desenhaMatrix() é chamada
         setInterval(desenhaMatrix, 60);
     }
-//  Função de carregar a página e passar o id canvas para a função efeitoMatrix
-    function carregar() {
-        var canvas = document.getElementById("canvas");
-        efeitoMatrix(canvas);
-    }
+}
