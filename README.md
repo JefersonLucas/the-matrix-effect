@@ -49,10 +49,10 @@ This project is licenced by licence MIT - see the file [LICENSE.md](https://gith
 My sincerely thanks:
 * Everyone that visite the project and or let a star.
 * Trilogy (it's comming more) _Matrix_ with the incredible _Keanu Reeves_.
-* [Akira Hanashiro](https://www.linkedin.com/in/hanashiro/) - _Added the japanese awesome letters_.
-* [Jeferson Lucas](https://github.com/JefersonLucas) - _Autor of inical work_.
-* [Sylvain Saurel](https://play.google.com/store/apps/details?id=com.ssaurel.matrixeffect) - Inspiration for the inicial autor.
+* [Akira Hanashiro](https://www.linkedin.com/in/hanashiro/) - _Added the japanese awesome letters._
+* [Jeferson Lucas](https://github.com/JefersonLucas) - _Autor of inical work._
+* [Sylvain Saurel](https://play.google.com/store/apps/details?id=com.ssaurel.matrixeffect) - _Inspiration for the inicial autor._
 
 ## Hire me
 
-* Email: [julio_flima@hotmail.com](julio_flima@hotmail.com)
+* Email: [julio_flima@hotmail.com](mailto:julio_flima@hotmail.com)
