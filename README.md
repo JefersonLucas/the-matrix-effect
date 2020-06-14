@@ -34,7 +34,7 @@ Para clonar o esse repositório na sua máquina local, utilize as linhas de coma
 mkdir efeito-matrix
 cd efeito-matrix
 git init
-git clone git@github.com:JefersonLucas/efeito-matrix.git
+git clone git@github.com:juloko/matrix-effect.git
 ```
 
 ```
@@ -43,43 +43,26 @@ git clone git@github.com:JefersonLucas/efeito-matrix.git
 mkdir efeito-matrix
 cd efeito-matrix
 git init
-git clone https://github.com/JefersonLucas/efeito-matrix.git
+git clone https://github.com/juloko/matrix-effect.git
 ```
 
 **2. Baixando o repositório**.
 
-Você também pode [baixar](https://github.com/JefersonLucas/efeito-matrix/archive/master.zip) o repositório em formato zip.
+Você também pode [baixar](https://github.com/juloko/matrix-effect/archive/master.zip) o repositório em formato zip.
 
-## Contribuindo
-
-Leia o [CONTRIBUTING.md](https://github.com/JefersonLucas/efeito-matrix/blob/master/CONTRIBUTING.md) para obter detalhes sobre nosso código de conduta e o processo para enviar solicitações pull para nós.
-
-## Versionamento
-
-Usamos o [SemVer](https://semver.org/lang/pt-BR/) para controle de versão. Para as versões disponíveis, consulte as [tags nesse repositório](https://github.com/JefersonLucas/efeito-matrix/tags).
-
-## Autores
-
-* [@JefersonLucas](https://github.com/JefersonLucas) - _Trabalho Inicial_.
-
-Veja também a lista completa de [contribuidores](https://github.com/JefersonLucas/efeito-matrix/contributors) que participaram deste projeto.
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](https://github.com/JefersonLucas/efeito-matrix/blob/master/LICENSE) para obter detalhes.
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](https://github.com/juloko/matrix-effect/blob/master/LICENSE) para obter detalhes.
 
 ## Agradecimentos
 
 Meus sinceros agradecimentos:
-
-* A Deus.
-* Contribuintes do projeto.
-* Todos que visitam o projeto e deixa uma estrela como reconhecimento.
-* Trilogia _Matrix_ com o fodástico _Keanu Reeves_.
+* Todos que visitam o projeto e ou deixam uma estrela como reconhecimento.
+* Trilogia _Matrix_ com o incrível _Keanu Reeves_.
+* [@JefersonLucas](https://github.com/JefersonLucas) - _Trabalho Inicial_.
 * Ao _[Sylvain Saurel](https://play.google.com/store/apps/details?id=com.ssaurel.matrixeffect)_, sem o seu trabalho, não me inspiraria a realizaria esse projeto.
 
-## Siga-me
+## Contratem-me
 
-* Instagram [@jeferson.lucas](https://instagram.com/jeferson.luckas/)
-* Twitter [@JefersonLuckas](https://twitter.com/JefersonLuckas)
-* LinkedIn [Jeferson Lucas](https://www.linkedin.com/in/jeferson-lucas)
+* Email: [julio_flima@hotmail.com](julio_flima@hotmail.com)
