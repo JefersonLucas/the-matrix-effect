@@ -1,0 +1,67 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+pre{
+	height: 100vh;
+	z-index: 9;
+    position: fixed;
+}
+
+code{
+	margin-left:1rem;
+	font-size: 15px !important;
+	width: 50vw;
+	padding: 0 !important;
+	font-family: 'Courier New', Courier, monospace !important;
+	z-index: 99;
+	height: 100%;
+	-webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: -internal-light-dark-color(black, white);
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    -webkit-appearance: textarea;
+    background-color: -internal-light-dark-color(rgb(255, 255, 255), rgb(59, 59, 59));
+    -webkit-rtl-ordering: logical;
+    flex-direction: column;
+    resize: auto;
+    cursor: text;
+	white-space: pre-wrap;
+    overflow-wrap: break-word;
+}
+
+textarea{
+	padding-left:1rem;
+	color: transparent ;
+    top: 11px;
+	z-index: 999;
+	font-size: 15px !important;
+	position: absolute;
+    left: 0;
+	background: transparent;
+	border: none;
+	width: 50vw;
+	height: 100%;
+	outline:none;
+	caret-color: rgb(157, 255, 0);
+	font-family: 'Courier New', Courier, monospace !important;
+	
+}
+canvas {
+	position: absolute;
+	z-index: 1;
+	display: flex;
+	margin: 0 auto;
+ 	width: 100%;
+	height: 100vh;
+	transform: scaleX(-1);
+
+}

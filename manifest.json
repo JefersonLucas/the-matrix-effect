@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Matrix Effect Chrome",
+  "description": "Theme for Chrome, on open another tab.",
+  "version": "2.3",
+   "permissions": [
+  ],
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+ },
+  "icons": {
+    "128": "assets/images/m.png"
+  }
+}
