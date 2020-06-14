@@ -45,7 +45,7 @@ You also can [download ](https://github.com/juloko/matrix-effect/archive/master.
 
 
 ## Licence
-This project is licenced by licence MIT projeto está licenciado sob a licença MIT - see the file [LICENSE.md](https://github.com/juloko/matrix-effect/blob/master/LICENSE) to obtain details.
+This project is licenced by licence MIT - see the file [LICENSE.md](https://github.com/juloko/matrix-effect/blob/master/LICENSE) to obtain details.
 
 ## Thanks
 
