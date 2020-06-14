@@ -36,7 +36,7 @@ git init
 git clone https://github.com/juloko/matrix-effect.git
 ```
 
-**2. Downloading the repo **.
+**2. Downloading the Repo**.
 
 You also can [download ](https://github.com/juloko/matrix-effect/archive/master.zip) the repo em format zip.
 
@@ -50,7 +50,7 @@ My sincerely thanks:
 * Everyone that visite the project and or let a star.
 * Trilogy (it's comming more) _Matrix_ with the incredible _Keanu Reeves_.
 * [Akira Hanashiro](https://www.linkedin.com/in/hanashiro/) - _Added the japanese awesome letters_.
-* [@JefersonLucas](https://github.com/JefersonLucas) - _Autor of inical work_.
+* [Jeferson Lucas](https://github.com/JefersonLucas) - _Autor of inical work_.
 * [Sylvain Saurel](https://play.google.com/store/apps/details?id=com.ssaurel.matrixeffect) - Inspiration for the inicial autor.
 
 ## Hire me
