@@ -12,14 +12,11 @@ Download this to be your new tab style on Chrome, add https://juloko.github.io/m
 
 ## Starting
 
-Essas instruções fornecerão uma cópia do projeto em execução na sua máquina local.
-
-### Installing
-Siga passo a passo as seguinte formas de obter o código na sua máquina local.
+These instructions supply a copy of project in your local machine.
 
 **1. Cloning the Repo**.
 
-To clone this repo in your local machina, use the lines of command in below:
+To clone this repo in your local machine, use the lines of command in below:
 
 ```
 #Clonar com SSH
