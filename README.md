@@ -1,15 +1,5 @@
 # [DEMO!](https://juloko.github.io/matrix-effect/)
 
-
-![JefersonLuckas](https://img.shields.io/badge/Jeferson%20Lucas-Efeito%20Matrix-green)
-![GitHub language count](https://img.shields.io/github/languages/count/JefersonLucas/efeito-matrix)
-![GitHub top language](https://img.shields.io/github/languages/top/JefersonLucas/efeito-matrix)
-![GitHub repo size](https://img.shields.io/github/repo-size/JefersonLucas/efeito-matrix)
-![GitHub](https://img.shields.io/github/license/JefersonLucas/efeito-matrix)
-![GitHub contributors](https://img.shields.io/github/contributors/JefersonLucas/efeito-matrix)
-![GitHub stars](https://img.shields.io/github/stars/JefersonLucas/efeito-matrix?style=social)
-![GitHub forks](https://img.shields.io/github/forks/JefersonLucas/efeito-matrix?style=social)
-
 # Efeito Matrix
 
 ![efeito matrix](https://user-images.githubusercontent.com/39635734/82733390-d26ea100-9ce9-11ea-8c9e-e66e80e7d83b.gif)
