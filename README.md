@@ -1,5 +1,8 @@
 # [DEMO!](https://juloko.github.io/matrix-effect/)
 
+# [Theme on Chrome](https://chrome.google.com/webstore/detail/matrix-effect-chrome/hifkbbkonokckpinbkhkbhlemgpojbpk)
+Download this to be your new tab style on Chrome, add https://juloko.github.io/matrix-effect on your first page.
+
 # Efeito Matrix
 
 ![efeito matrix](https://user-images.githubusercontent.com/39635734/82733390-d26ea100-9ce9-11ea-8c9e-e66e80e7d83b.gif)
