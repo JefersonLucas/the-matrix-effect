@@ -54,7 +54,7 @@ My sincerely thanks:
 * Trilogy (it's comming more) _Matrix_ with the incredible _Keanu Reeves_.
 * [Akira Hanashiro](https://www.linkedin.com/in/hanashiro/) - _Added the japanese awesome letters_.
 * [@JefersonLucas](https://github.com/JefersonLucas) - _Autor of inical work_.
-* Ao _[Sylvain Saurel](https://play.google.com/store/apps/details?id=com.ssaurel.matrixeffect)_, inspiration for the inicial autor.
+* [Sylvain Saurel](https://play.google.com/store/apps/details?id=com.ssaurel.matrixeffect) - Inspiration for the inicial autor.
 
 ## Hire me
 
