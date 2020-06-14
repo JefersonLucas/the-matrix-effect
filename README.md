@@ -19,13 +19,13 @@ Siga passo a passo as seguinte formas de obter o código na sua máquina local.
 
 **1. Cloning the Repo**.
 
-To clone this repo in your local machina, use tha lines of command in below:
+To clone this repo in your local machina, use the lines of command in below:
 
 ```
 #Clonar com SSH
 
-mkdir efeito-matrix
-cd efeito-matrix
+mkdir matrix_effect
+cd matrix_effect
 git init
 git clone git@github.com:juloko/matrix-effect.git
 ```
@@ -33,29 +33,29 @@ git clone git@github.com:juloko/matrix-effect.git
 ```
 #Clonar com HTTPS
 
-mkdir efeito-matrix
-cd efeito-matrix
+mkdir matrix_effect
+cd matrix_effect
 git init
 git clone https://github.com/juloko/matrix-effect.git
 ```
 
-**2. Baixando o repositório**.
+**2. Downloading the repo **.
 
-Você também pode [baixar](https://github.com/juloko/matrix-effect/archive/master.zip) o repositório em formato zip.
+You also can [download ](https://github.com/juloko/matrix-effect/archive/master.zip) the repo em format zip.
 
 
-## Licença
+## Licence
+This project is licenced by licence MIT projeto está licenciado sob a licença MIT - see the file [LICENSE.md](https://github.com/juloko/matrix-effect/blob/master/LICENSE) to obtain details.
 
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](https://github.com/juloko/matrix-effect/blob/master/LICENSE) para obter detalhes.
+## Thanks
 
-## Agradecimentos
+My sincerely thanks:
+* Everyone that visite the project and or let a star.
+* Trilogy (it's comming more) _Matrix_ with the incredible _Keanu Reeves_.
+* [Akira Hanashiro](https://www.linkedin.com/in/hanashiro/) - _Added the japanese awesome letters_.
+* [@JefersonLucas](https://github.com/JefersonLucas) - _Autor of inical work_.
+* Ao _[Sylvain Saurel](https://play.google.com/store/apps/details?id=com.ssaurel.matrixeffect)_, inspiration for the inicial autor.
 
-Meus sinceros agradecimentos:
-* Todos que visitam o projeto e ou deixam uma estrela como reconhecimento.
-* Trilogia _Matrix_ com o incrível _Keanu Reeves_.
-* [@JefersonLucas](https://github.com/JefersonLucas) - _Trabalho Inicial_.
-* Ao _[Sylvain Saurel](https://play.google.com/store/apps/details?id=com.ssaurel.matrixeffect)_, sem o seu trabalho, não me inspiraria a realizaria esse projeto.
-
-## Contratem-me
+## Hire me
 
 * Email: [julio_flima@hotmail.com](julio_flima@hotmail.com)
