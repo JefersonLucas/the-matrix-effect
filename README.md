@@ -3,23 +3,23 @@
 # [Theme on Chrome](https://chrome.google.com/webstore/detail/matrix-effect-chrome/hifkbbkonokckpinbkhkbhlemgpojbpk)
 Download this to be your new tab style on Chrome, add https://juloko.github.io/matrix-effect on your first page.
 
-# Efeito Matrix
+# Matrix Effect
 
-![efeito matrix](https://user-images.githubusercontent.com/39635734/82733390-d26ea100-9ce9-11ea-8c9e-e66e80e7d83b.gif)
+![matrix effect](https://user-images.githubusercontent.com/39635734/82733390-d26ea100-9ce9-11ea-8c9e-e66e80e7d83b.gif)
 
 > ### "Cedo ou tarde, você vai aprender, assim como eu aprendi, que existe uma diferença entre CONHECER o caminho e TRILHAR o caminho" 
 >_Morpheus_
 
-## Começando
+## Starting
 
 Essas instruções fornecerão uma cópia do projeto em execução na sua máquina local.
 
-### Instalando
+### Installing
 Siga passo a passo as seguinte formas de obter o código na sua máquina local.
 
-**1. Clonando o repositório**.
+**1. Cloning the Repo**.
 
-Para clonar o esse repositório na sua máquina local, utilize as linhas de comando:
+To clone this repo in your local machina, use tha lines of command in below:
 
 ```
 #Clonar com SSH
