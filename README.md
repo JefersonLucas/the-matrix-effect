@@ -7,8 +7,8 @@ Download this to be your new tab styled on Chrome, add https://juloko.github.io/
 
 ![matrix effect](https://user-images.githubusercontent.com/39635734/82733390-d26ea100-9ce9-11ea-8c9e-e66e80e7d83b.gif)
 
-> ### "Cedo ou tarde, você vai aprender, assim como eu aprendi, que existe uma diferença entre CONHECER o caminho e TRILHAR o caminho" 
->_Morpheus_
+> ### ‘‘Ever have that feeling where you're not sure if you're awake or dreaming?’’
+>_Neo_
 
 ## Starting
 
