@@ -1,7 +1,7 @@
 <p align="center">
-	<img src="assets/img/logo.png" width="150">
-	<h1 align="center">O Efeito Matrix</h1>
-	<p align="center">O incrível efeito da chuva de letras no estilo da trilogia Matrix..</p>
+	<img src="../../assets/img/logo.png" width="150">
+	<h1 align="center">The Matrix Effect</h1>
+	<p align="center">The amazing effect of the letter rain in the style of the Matrix trilogy.</p>
 	<p align="center">
     	<img src="https://img.shields.io/badge/Jeferson%20Lucas-The%20Matrix%20Effect-green" alt="JefersonLuckas">
     	<img src="https://img.shields.io/github/languages/count/JefersonLucas/the-matrix-effect" alt="GitHub language count">
@@ -16,74 +16,75 @@
 </p>
 
 <p align="center">
-	<img src="https://user-images.githubusercontent.com/39635734/82733390-d26ea100-9ce9-11ea-8c9e-e66e80e7d83b.gif" alt="efeito matrix">
+    <img src="../../assets/img/the-matrix-effect.gif" alt="efeito matrix">
 </p>
+
+> ### "Sooner or later, you will learn, just like I did, that there is a difference between KNOWING the path and TRACKING the path" 
+>_Morpheus_
 
 ## Traduções
 
 * [Original](https://github.com/JefersonLucas/the-matrix-effect/blob/master/README.md)
 * [English](https://github.com/JefersonLucas/the-matrix-effect/blob/master/translate/en/README.md)
 
-> ### "Cedo ou tarde, você vai aprender, assim como eu aprendi, que existe uma diferença entre CONHECER o caminho e TRILHAR o caminho" 
->_Morpheus_
+## Starting
 
-## Começando
+These instructions will provide a copy of the project running on your local machine.
 
-Essas instruções fornecerão uma cópia do projeto em execução na sua máquina local.
+### Installing
 
-### Instalando
-Siga passo a passo as seguinte formas de obter o código na sua máquina local.
+Follow step by step the following ways to obtain the code on your local machine.
 
-#### Clonando o repositório
+#### Cloning the repository
 
-Para clonar o esse repositório na sua máquina local, utilize as linhas de comando:
+To clone this repository on your local machine, use the command lines:
 
 ```
 #Clonar com SSH
 
-mkdir the-matrix-effext
-cd the-matrix-effext
+mkdir the-matrix-effect
+cd the-matrix-effect
 git init
-git clone git@github.com:JefersonLucas/the-matrix-effext.git
+git clone git@github.com:JefersonLucas/the-matrix-effect.git
 ```
 
 ```
 #Clonar com HTTPS
 
-mkdir the-matrix-effext
-cd the-matrix-effext
+mkdir the-matrix-effect
+cd the-matrix-effect
 git init
-git clone https://github.com/JefersonLucas/the-matrix-effext.git
+git clone https://github.com/JefersonLucas/the-matrix-effect.git
 ```
 
-#### Baixando o repositório
+#### Downloading the repository
 
-Você também pode [baixar](https://github.com/JefersonLucas/the-matrix-effext/archive/master.zip) o repositório em formato zip.
+You can also [download](https://github.com/JefersonLucas/the-matrix-effect/archive/master.zip) the repository in zip format.
 
-## Contribuindo
+## Contributing
 
-Leia o [CONTRIBUTING.md](https://github.com/JefersonLucas/the-matrix-effext/blob/master/CONTRIBUTING.md) para obter detalhes sobre nosso código de conduta e o processo para enviar solicitações pull para nós.
+Read the [CONTRIBUTING.md](https://github.com/JefersonLucas/the-matrix-effect/blob/master/CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests to us.
 
-## Versionamento
+## Versioning
 
-Usamos o [SemVer](https://semver.org/lang/pt-BR/) para controle de versão. Para as versões disponíveis, consulte as [tags nesse repositório](https://github.com/JefersonLucas/the-matrix-effext/tags).
+We use the [SemVer](https://semver.org/) for version control. For available versions, see the [tags in this repository](https://github.com/JefersonLucas/the-matrix-effect/tags).
 
-## Autores
+## Authors
 
-* [@JefersonLucas](https://github.com/JefersonLucas) - _Trabalho Inicial_.
+* [@JefersonLucas](https://github.com/JefersonLucas) - _Creator_.
 
-Veja também a lista completa de [contribuidores](https://github.com/JefersonLucas/the-matrix-effext/contributors) que participaram deste projeto.
+See also the complete list of [contributors](https://github.com/JefersonLucas/the-matrix-effect/contributors) who participated in this project.
 
-## Licença
+## License
 
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](https://github.com/JefersonLucas/the-matrix-effext/blob/master/LICENSE) para obter detalhes.
+This project is licensed under the MIT license - see the archive [LICENSE.md](https://github.com/JefersonLucas/the-matrix-effect/blob/master/LICENSE) for details.
 
-## Agradecimentos
+## Thanks
 
-Meus sinceros agradecimentos:
+My sincere thanks:
 
-* A Deus.
+* God.
 * Contribuintes do projeto.
 * Todos que visitam o projeto e deixa uma estrela como reconhecimento.
-* Trilogia _Matrix_ com o fodástico _Keanu Reeves_.
-* Ao _[Sylvain Saurel](https://play.google.com/store/apps/details?id=com.ssaurel.matrixeffect)_, sem o seu trabalho, não me inspiraria a realizaria esse projeto.
+* _Matrix_ trilogy with the _Keanu Reeves_.
+* To _[Sylvain Saurel](https://play.google.com/store/apps/details?id=com.ssaurel.matrixeffect)_, without your work, I would not be inspired to carry out this project.

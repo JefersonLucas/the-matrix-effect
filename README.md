@@ -16,16 +16,16 @@
 </p>
 
 <p align="center">
-	<img src="https://user-images.githubusercontent.com/39635734/82733390-d26ea100-9ce9-11ea-8c9e-e66e80e7d83b.gif" alt="efeito matrix">
+	<img src="assets/img/the-matrix-effect.gif" alt="efeito matrix">
 </p>
+
+> ### "Cedo ou tarde, você vai aprender, assim como eu aprendi, que existe uma diferença entre CONHECER o caminho e TRILHAR o caminho" 
+>_Morpheus_
 
 ## Traduções
 
 * [Original](https://github.com/JefersonLucas/the-matrix-effect/blob/master/README.md)
 * [English](https://github.com/JefersonLucas/the-matrix-effect/blob/master/translate/en/README.md)
-
-> ### "Cedo ou tarde, você vai aprender, assim como eu aprendi, que existe uma diferença entre CONHECER o caminho e TRILHAR o caminho" 
->_Morpheus_
 
 ## Começando
 
@@ -41,42 +41,42 @@ Para clonar o esse repositório na sua máquina local, utilize as linhas de coma
 ```
 #Clonar com SSH
 
-mkdir the-matrix-effext
-cd the-matrix-effext
+mkdir the-matrix-effect
+cd the-matrix-effect
 git init
-git clone git@github.com:JefersonLucas/the-matrix-effext.git
+git clone git@github.com:JefersonLucas/the-matrix-effect.git
 ```
 
 ```
 #Clonar com HTTPS
 
-mkdir the-matrix-effext
-cd the-matrix-effext
+mkdir the-matrix-effect
+cd the-matrix-effect
 git init
-git clone https://github.com/JefersonLucas/the-matrix-effext.git
+git clone https://github.com/JefersonLucas/the-matrix-effect.git
 ```
 
 #### Baixando o repositório
 
-Você também pode [baixar](https://github.com/JefersonLucas/the-matrix-effext/archive/master.zip) o repositório em formato zip.
+Você também pode [baixar](https://github.com/JefersonLucas/the-matrix-effect/archive/master.zip) o repositório em formato zip.
 
 ## Contribuindo
 
-Leia o [CONTRIBUTING.md](https://github.com/JefersonLucas/the-matrix-effext/blob/master/CONTRIBUTING.md) para obter detalhes sobre nosso código de conduta e o processo para enviar solicitações pull para nós.
+Leia o [CONTRIBUTING.md](https://github.com/JefersonLucas/the-matrix-effect/blob/master/CONTRIBUTING.md) para obter detalhes sobre nosso código de conduta e o processo para enviar solicitações pull para nós.
 
 ## Versionamento
 
-Usamos o [SemVer](https://semver.org/lang/pt-BR/) para controle de versão. Para as versões disponíveis, consulte as [tags nesse repositório](https://github.com/JefersonLucas/the-matrix-effext/tags).
+Usamos o [SemVer](https://semver.org/lang/pt-BR/) para controle de versão. Para as versões disponíveis, consulte as [tags nesse repositório](https://github.com/JefersonLucas/the-matrix-effect/tags).
 
 ## Autores
 
 * [@JefersonLucas](https://github.com/JefersonLucas) - _Trabalho Inicial_.
 
-Veja também a lista completa de [contribuidores](https://github.com/JefersonLucas/the-matrix-effext/contributors) que participaram deste projeto.
+Veja também a lista completa de [contribuidores](https://github.com/JefersonLucas/the-matrix-effect/contributors) que participaram deste projeto.
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](https://github.com/JefersonLucas/the-matrix-effext/blob/master/LICENSE) para obter detalhes.
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](https://github.com/JefersonLucas/the-matrix-effect/blob/master/LICENSE) para obter detalhes.
 
 ## Agradecimentos
 
