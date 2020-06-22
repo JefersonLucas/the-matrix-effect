@@ -1,8 +1,11 @@
 <p align="center">	
 	<h1 align="center">O Efeito Matrix</h1>
-	<img src="assets/img/logo.png" width="150">
-	<p align="center">O incrível efeito da chuva de letras no estilo da trilogia Matrix..</p>
-	<p align="center">
+</p>
+<p align="center">
+	<img src="assets/img/logo.png" width="150" alt="Logo">
+</p>
+	<p align="center">O incrível efeito da chuva de letras no estilo da trilogia Matrix.</p>
+    <p align="center">
     	<img src="https://img.shields.io/badge/Jeferson%20Lucas-The%20Matrix%20Effect-green" alt="JefersonLuckas">
     	<img src="https://img.shields.io/github/languages/count/JefersonLucas/the-matrix-effect" alt="GitHub language count">
     	<img src="https://img.shields.io/github/languages/top/JefersonLucas/the-matrix-effect" alt="GitHub top language">
