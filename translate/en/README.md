@@ -2,16 +2,15 @@
     <h1 align="center">The Matrix Effect</h1>
 </p>
 <p align="center">
-    <img src="../../assets/img/logo.png" width="150" alt="Logo">
+    <img src="../../assets/img/logo.png" width="200" alt="Logo">
 </p>
     <p align="center">The amazing effect of the letter rain in the style of the Matrix trilogy.</p>
     <p align="center">
         <img src="https://img.shields.io/badge/Jeferson%20Lucas-The%20Matrix%20Effect-green" alt="JefersonLuckas">
+        <img src="https://img.shields.io/github/license/JefersonLucas/the-matrix-effect" alt="License">
         <img src="https://img.shields.io/github/languages/count/JefersonLucas/the-matrix-effect" alt="GitHub language count">
         <img src="https://img.shields.io/github/languages/top/JefersonLucas/the-matrix-effect" alt="GitHub top language">
-        <img src="https://img.shields.io/github/repo-size/JefersonLucas/the-matrix-effect" alt="License">
-        <img src="https://img.shields.io/badge/License-MIT-green" alt="GitHub repo size">
-        <img src="https://img.shields.io/github/license/JefersonLucas/the-matrix-effect" alt="GitHub">
+        <img src="https://img.shields.io/github/repo-size/JefersonLucas/the-matrix-effect" alt="GitHub repo size">
         <img src="https://img.shields.io/github/contributors/JefersonLucas/the-matrix-effect" alt="GitHub contributors">
         <img src="https://img.shields.io/github/stars/JefersonLucas/the-matrix-effect?style=social" alt="GitHub stars">
         <img src="https://img.shields.io/github/forks/JefersonLucas/the-matrix-effect?style=social" alt="GitHub forks">
@@ -63,6 +62,10 @@ git clone https://github.com/JefersonLucas/the-matrix-effect.git
 #### Downloading the repository
 
 You can also [download](https://github.com/JefersonLucas/the-matrix-effect/archive/master.zip) the repository in zip format.
+
+## Environment
+
+See here the page of the project deployed by @github-pages [view deployment](https://jefersonlucas.github.io/the-matrix-effect/).
 
 ## Contributing
 
